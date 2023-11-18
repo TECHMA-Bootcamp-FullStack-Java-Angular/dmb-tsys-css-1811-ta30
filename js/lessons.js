@@ -11,18 +11,16 @@ export const lessons = [
         numExercise: 1,
         description: `./assets/Ej1.png`,
         urlCode:
-          'https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-html-1718-ta29/tree/main/Ejercicio_01',
-        urlPG: 'https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-html-1718-ta29/Ejercicio_01/index.html',
-     
-
+          'https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-css-1718-ta29/tree/main/Ejercicio_01',
+        urlPG: 'https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-css-1718-ta29/Ejercicio_01/index.html',
       },
       {
         numExercise: 2,
         title: '',
         description: `./assets/Ej2.png`,
         urlCode:
-          'https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-html-1718-ta29/tree/main/Ejercicio_02',
-        urlPG: 'https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-html-1718-ta29/Ejercicio_02/instalaciones.html',
+          'https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-css-1718-ta29/tree/main/Ejercicio_02',
+        urlPG: 'https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-css-1718-ta29/Ejercicio_02/instalaciones.html',
       },
 
     ],
