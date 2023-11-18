@@ -20,7 +20,7 @@ export const lessons = [
         description: `./assets/Ej2.png`,
         urlCode:
           'https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-css-1811-ta30/tree/main/Ejercicio_02',
-        urlPG: 'https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-css-1811-ta30/Ejercicio_02/instalaciones.html',
+        urlPG: 'https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-css-1811-ta30/Ejercicio_02/index.html',
       },
 
     ],
