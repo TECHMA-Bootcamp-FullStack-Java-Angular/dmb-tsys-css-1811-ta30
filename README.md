@@ -6,7 +6,9 @@
 
 # T30 – CSS3 Layout
 
-Este repositorio contiene las tareas del Bootcamp 👨‍💻
+This repository contains the Bootcamp tasks 👨‍💻
+
+[See exercise click here ](https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-css-1811-ta30/)  
 
 ### Rules of use 🚀
 
@@ -22,4 +24,4 @@ Este repositorio contiene las tareas del Bootcamp 👨‍💻
 - Open the repository with your IDE
 
 
-[Ver ejercicio ](https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-css-1811-ta30/)  
+
